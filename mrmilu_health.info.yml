@@ -1,0 +1,6 @@
+name: Mr. Milu Health
+type: module
+description: Provides simple endpoint to check status and return status code 200 or 500
+package: Mr. Milú
+core: 8.x
+version: 1.0.0

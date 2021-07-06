@@ -1,0 +1,5 @@
+{
+ "name": "mrmilu/mrmilu_health",
+ "description": "Provides simple endpoint to check status and return status code 200 or 500",
+ "type": "drupal-mrmilu-module"
+}

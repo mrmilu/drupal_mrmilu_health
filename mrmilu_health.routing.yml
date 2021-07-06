@@ -1,0 +1,10 @@
+mrmilu_health.health:
+  path: '/health'
+  defaults:
+    _controller: '\Drupal\mrmilu_health\Controller\HealthController::health'
+    _disable_route_normalizer: 'TRUE'
+  requirements:
+    _access: 'TRUE'
+  options:
+    _maintenance_access: TRUE
+    no_cache: TRUE
